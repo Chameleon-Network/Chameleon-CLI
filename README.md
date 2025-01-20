@@ -1,9 +1,6 @@
-[![Go Report Card](https://goreportcard.com/badge/github.com/incognitochain/incognito-cli)](https://goreportcard.com/report/github.com/incognitochain/incognito-cli)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/incognitochain/incognito-cli/blob/main/LICENSE)
-
-incognito-cli
+chameleon-cli
 =============
-A command line tool for the Incognito network
+A command line tool for the chameleon network
 
 <!-- toc -->
 * [Usage](#usage)
